@@ -1,1 +1,1 @@
-# password-strength-visualizer
+EntropyX – Password Intelligence System
